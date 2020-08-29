@@ -25,15 +25,15 @@ https://api.covid19india.org/
 
 ## Key Features
 
-(i) Graphical representation for live count of COVID-19 cases
-(ii) Upto date tweets of Honourable Health minister of Tamil Nadu.
-(iii) News feed about COVID-19 in India and Tamilnadu
-(iv) Rules of Lockdown 4.0
-(v) Detailed view of Hospitals in Madurai dealing COVID-19
-(vi)Symptoms and Prevention of COVID-19
-(vii) Language independent
-(viii)Emergency helpliness
-(xi) Chatbot to test corona
+1. Graphical representation for live count of COVID-19 cases
+2. Upto date tweets of Honourable Health minister of Tamil Nadu.
+3. News feed about COVID-19 in India and Tamilnadu
+4. Rules of Lockdown 4.0
+5. Detailed view of Hospitals in Madurai dealing COVID-19
+6. Symptoms and Prevention of COVID-19
+7. Language independent
+8. Emergency helpliness
+9. Chatbot to test corona
 
 
 ## Conclusion
